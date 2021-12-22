@@ -1,0 +1,5 @@
+Pour afficher la sortie dans le terminal il faut lancer le script avec "cscript":
+cscript <filename.vbs>
+
+Pour ecrire la sortie dans un fichier (p.ex. log) :
+cscript <filename.vbs> > out.log

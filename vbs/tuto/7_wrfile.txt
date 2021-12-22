@@ -1,0 +1,10 @@
+VBScript permet aux développeurs d'interagir efficacement avec l'utilisateur. 
+Il peut s'agir d'une boîte de message pour afficher un message à un utilisateur ou 
+d'une boîte de saisie avec laquelle l'utilisateur peut saisir les valeurs.
+
+Fonction VBScript MsgBox
+La fonction MsgBox affiche une boîte de message et attend que 
+l'utilisateur clique sur un bouton, puis une action est effectuée 
+en fonction du bouton cliqué par l'utilisateur.
+
+

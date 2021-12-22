@@ -1,0 +1,451 @@
+0 : Name : getfilemeta.txt
+1 : Size : 0 bytes
+2 : Item type : Text Document
+3 : Date modified : 30.10.2021 15:23
+4 : Date created : 30.10.2021 15:23
+5 : Date accessed : 30.10.2021 15:23
+6 : Attributes : A
+7 : Offline status : 
+8 : Availability : 
+9 : Perceived type : Text
+10 : Owner : B8FPCS1\gabri
+11 : Kind : Document
+12 : Date taken : 
+13 : Contributing artists : 
+14 : Album : 
+15 : Year : 
+16 : Genre : 
+17 : Conductors : 
+18 : Tags : 
+19 : Rating : Unrated
+20 : Authors : 
+21 : Title : 
+22 : Subject : 
+23 : Categories : 
+24 : Comments : 
+25 : Copyright : 
+26 : # : 
+27 : Length : 
+28 : Bit rate : 
+29 : Protected : 
+30 : Camera model : 
+31 : Dimensions : 
+32 : Camera maker : 
+33 : Company : 
+34 : File description : 
+35 : Masters keywords : 
+36 : Masters keywords : 
+37 :  : 
+38 :  : 
+39 :  : 
+40 :  : 
+0 : Name : getfilemeta.vbs
+1 : Size : 744 bytes
+2 : Item type : VBScript Script File
+3 : Date modified : 30.10.2021 15:23
+4 : Date created : 30.10.2021 14:57
+5 : Date accessed : 30.10.2021 15:23
+6 : Attributes : A
+7 : Offline status : 
+8 : Availability : 
+9 : Perceived type : Unspecified
+10 : Owner : B8FPCS1\gabri
+11 : Kind : Program
+12 : Date taken : 
+13 : Contributing artists : 
+14 : Album : 
+15 : Year : 
+16 : Genre : 
+17 : Conductors : 
+18 : Tags : 
+19 : Rating : Unrated
+20 : Authors : 
+21 : Title : 
+22 : Subject : 
+23 : Categories : 
+24 : Comments : 
+25 : Copyright : 
+26 : # : 
+27 : Length : 
+28 : Bit rate : 
+29 : Protected : 
+30 : Camera model : 
+31 : Dimensions : 
+32 : Camera maker : 
+33 : Company : 
+34 : File description : 
+35 : Masters keywords : 
+36 : Masters keywords : 
+37 :  : 
+38 :  : 
+39 :  : 
+40 :  : 
+0 : Name : ivy.vbs
+1 : Size : 12,1 KB
+2 : Item type : VBScript Script File
+3 : Date modified : 07.01.2017 10:29
+4 : Date created : 21.10.2021 20:34
+5 : Date accessed : 23.10.2021 19:32
+6 : Attributes : A
+7 : Offline status : 
+8 : Availability : 
+9 : Perceived type : Unspecified
+10 : Owner : B8FPCS1\gabri
+11 : Kind : Program
+12 : Date taken : 
+13 : Contributing artists : 
+14 : Album : 
+15 : Year : 
+16 : Genre : 
+17 : Conductors : 
+18 : Tags : 
+19 : Rating : Unrated
+20 : Authors : 
+21 : Title : 
+22 : Subject : 
+23 : Categories : 
+24 : Comments : 
+25 : Copyright : 
+26 : # : 
+27 : Length : 
+28 : Bit rate : 
+29 : Protected : 
+30 : Camera model : 
+31 : Dimensions : 
+32 : Camera maker : 
+33 : Company : 
+34 : File description : 
+35 : Masters keywords : 
+36 : Masters keywords : 
+37 :  : 
+38 :  : 
+39 :  : 
+40 :  : 
+0 : Name : ivy_temp.vbs
+1 : Size : 4,01 KB
+2 : Item type : VBScript Script File
+3 : Date modified : 05.03.2017 16:42
+4 : Date created : 21.10.2021 20:34
+5 : Date accessed : 23.10.2021 19:43
+6 : Attributes : A
+7 : Offline status : 
+8 : Availability : 
+9 : Perceived type : Unspecified
+10 : Owner : B8FPCS1\gabri
+11 : Kind : Program
+12 : Date taken : 
+13 : Contributing artists : 
+14 : Album : 
+15 : Year : 
+16 : Genre : 
+17 : Conductors : 
+18 : Tags : 
+19 : Rating : Unrated
+20 : Authors : 
+21 : Title : 
+22 : Subject : 
+23 : Categories : 
+24 : Comments : 
+25 : Copyright : 
+26 : # : 
+27 : Length : 
+28 : Bit rate : 
+29 : Protected : 
+30 : Camera model : 
+31 : Dimensions : 
+32 : Camera maker : 
+33 : Company : 
+34 : File description : 
+35 : Masters keywords : 
+36 : Masters keywords : 
+37 :  : 
+38 :  : 
+39 :  : 
+40 :  : 
+0 : Name : list.txt
+1 : Size : 17,5 KB
+2 : Item type : Text Document
+3 : Date modified : 30.10.2021 13:39
+4 : Date created : 30.10.2021 12:45
+5 : Date accessed : 30.10.2021 14:45
+6 : Attributes : A
+7 : Offline status : 
+8 : Availability : 
+9 : Perceived type : Text
+10 : Owner : B8FPCS1\gabri
+11 : Kind : Document
+12 : Date taken : 
+13 : Contributing artists : 
+14 : Album : 
+15 : Year : 
+16 : Genre : 
+17 : Conductors : 
+18 : Tags : 
+19 : Rating : Unrated
+20 : Authors : 
+21 : Title : 
+22 : Subject : 
+23 : Categories : 
+24 : Comments : 
+25 : Copyright : 
+26 : # : 
+27 : Length : 
+28 : Bit rate : 
+29 : Protected : 
+30 : Camera model : 
+31 : Dimensions : 
+32 : Camera maker : 
+33 : Company : 
+34 : File description : 
+35 : Masters keywords : 
+36 : Masters keywords : 
+37 :  : 
+38 :  : 
+39 :  : 
+40 :  : 
+0 : Name : list.vbs
+1 : Size : 1,61 KB
+2 : Item type : VBScript Script File
+3 : Date modified : 30.10.2021 13:27
+4 : Date created : 30.10.2021 12:45
+5 : Date accessed : 30.10.2021 14:45
+6 : Attributes : A
+7 : Offline status : 
+8 : Availability : 
+9 : Perceived type : Unspecified
+10 : Owner : B8FPCS1\gabri
+11 : Kind : Program
+12 : Date taken : 
+13 : Contributing artists : 
+14 : Album : 
+15 : Year : 
+16 : Genre : 
+17 : Conductors : 
+18 : Tags : 
+19 : Rating : Unrated
+20 : Authors : 
+21 : Title : 
+22 : Subject : 
+23 : Categories : 
+24 : Comments : 
+25 : Copyright : 
+26 : # : 
+27 : Length : 
+28 : Bit rate : 
+29 : Protected : 
+30 : Camera model : 
+31 : Dimensions : 
+32 : Camera maker : 
+33 : Company : 
+34 : File description : 
+35 : Masters keywords : 
+36 : Masters keywords : 
+37 :  : 
+38 :  : 
+39 :  : 
+40 :  : 
+0 : Name : list_out.html
+1 : Size : 35,7 KB
+2 : Item type : Microsoft Edge HTML Document
+3 : Date modified : 30.10.2021 13:39
+4 : Date created : 30.10.2021 12:59
+5 : Date accessed : 30.10.2021 14:45
+6 : Attributes : A
+7 : Offline status : 
+8 : Availability : 
+9 : Perceived type : Document
+10 : Owner : B8FPCS1\gabri
+11 : Kind : Document
+12 : Date taken : 
+13 : Contributing artists : 
+14 : Album : 
+15 : Year : 
+16 : Genre : 
+17 : Conductors : 
+18 : Tags : 
+19 : Rating : Unrated
+20 : Authors : 
+21 : Title : 
+22 : Subject : 
+23 : Categories : 
+24 : Comments : 
+25 : Copyright : 
+26 : # : 
+27 : Length : 
+28 : Bit rate : 
+29 : Protected : 
+30 : Camera model : 
+31 : Dimensions : 
+32 : Camera maker : 
+33 : Company : 
+34 : File description : 
+35 : Masters keywords : 
+36 : Masters keywords : 
+37 :  : 
+38 :  : 
+39 :  : 
+40 :  : 
+0 : Name : myGetPdfTitle.vbs
+1 : Size : 1,25 KB
+2 : Item type : VBScript Script File
+3 : Date modified : 21.10.2021 15:15
+4 : Date created : 22.10.2021 08:17
+5 : Date accessed : 30.10.2021 14:51
+6 : Attributes : A
+7 : Offline status : 
+8 : Availability : 
+9 : Perceived type : Unspecified
+10 : Owner : B8FPCS1\gabri
+11 : Kind : Program
+12 : Date taken : 
+13 : Contributing artists : 
+14 : Album : 
+15 : Year : 
+16 : Genre : 
+17 : Conductors : 
+18 : Tags : 
+19 : Rating : Unrated
+20 : Authors : 
+21 : Title : 
+22 : Subject : 
+23 : Categories : 
+24 : Comments : 
+25 : Copyright : 
+26 : # : 
+27 : Length : 
+28 : Bit rate : 
+29 : Protected : 
+30 : Camera model : 
+31 : Dimensions : 
+32 : Camera maker : 
+33 : Company : 
+34 : File description : 
+35 : Masters keywords : 
+36 : Masters keywords : 
+37 :  : 
+38 :  : 
+39 :  : 
+40 :  : 
+0 : Name : network.log
+1 : Size : 72,0 KB
+2 : Item type : Text Document
+3 : Date modified : 22.10.2021 16:15
+4 : Date created : 22.10.2021 16:15
+5 : Date accessed : 30.10.2021 14:51
+6 : Attributes : A
+7 : Offline status : 
+8 : Availability : 
+9 : Perceived type : Unspecified
+10 : Owner : B8FPCS1\gabri
+11 : Kind : 
+12 : Date taken : 
+13 : Contributing artists : 
+14 : Album : 
+15 : Year : 
+16 : Genre : 
+17 : Conductors : 
+18 : Tags : 
+19 : Rating : Unrated
+20 : Authors : 
+21 : Title : 
+22 : Subject : 
+23 : Categories : 
+24 : Comments : 
+25 : Copyright : 
+26 : # : 
+27 : Length : 
+28 : Bit rate : 
+29 : Protected : 
+30 : Camera model : 
+31 : Dimensions : 
+32 : Camera maker : 
+33 : Company : 
+34 : File description : 
+35 : Masters keywords : 
+36 : Masters keywords : 
+37 :  : 
+38 :  : 
+39 :  : 
+40 :  : 
+0 : Name : tuto
+1 : Size : 
+2 : Item type : File folder
+3 : Date modified : 23.10.2021 21:52
+4 : Date created : 23.10.2021 19:33
+5 : Date accessed : 30.10.2021 14:49
+6 : Attributes : D
+7 : Offline status : 
+8 : Availability : 
+9 : Perceived type : Unknown
+10 : Owner : B8FPCS1\gabri
+11 : Kind : Folder
+12 : Date taken : 
+13 : Contributing artists : 
+14 : Album : 
+15 : Year : 
+16 : Genre : 
+17 : Conductors : 
+18 : Tags : 
+19 : Rating : Unrated
+20 : Authors : 
+21 : Title : 
+22 : Subject : 
+23 : Categories : 
+24 : Comments : 
+25 : Copyright : 
+26 : # : 
+27 : Length : 
+28 : Bit rate : 
+29 : Protected : 
+30 : Camera model : 
+31 : Dimensions : 
+32 : Camera maker : 
+33 : Company : 
+34 : File description : 
+35 : Masters keywords : 
+36 : Masters keywords : 
+37 :  : 
+38 :  : 
+39 :  : 
+40 :  : 
+0 : Name : Win32_NetworkAdapterConfiguration.vbs
+1 : Size : 12,4 KB
+2 : Item type : VBScript Script File
+3 : Date modified : 22.10.2021 16:16
+4 : Date created : 23.10.2021 19:33
+5 : Date accessed : 23.10.2021 19:33
+6 : Attributes : A
+7 : Offline status : 
+8 : Availability : 
+9 : Perceived type : Unspecified
+10 : Owner : B8FPCS1\gabri
+11 : Kind : Program
+12 : Date taken : 
+13 : Contributing artists : 
+14 : Album : 
+15 : Year : 
+16 : Genre : 
+17 : Conductors : 
+18 : Tags : 
+19 : Rating : Unrated
+20 : Authors : 
+21 : Title : 
+22 : Subject : 
+23 : Categories : 
+24 : Comments : 
+25 : Copyright : 
+26 : # : 
+27 : Length : 
+28 : Bit rate : 
+29 : Protected : 
+30 : Camera model : 
+31 : Dimensions : 
+32 : Camera maker : 
+33 : Company : 
+34 : File description : 
+35 : Masters keywords : 
+36 : Masters keywords : 
+37 :  : 
+38 :  : 
+39 :  : 
+40 :  : 
